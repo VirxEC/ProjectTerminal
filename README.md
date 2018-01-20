@@ -9,4 +9,5 @@ The file on this repository is the installer for this program, as it requires 7 
 Just run the program and you will be good!
 
 Install program via this command:
-pip install git+https://github.com/VirxEpicoder/ProjectTerminal
+
+pip install git+https://github.com/VirxEpicoder/ProjectTerminal/blob/master/terminalLauncher050.py
