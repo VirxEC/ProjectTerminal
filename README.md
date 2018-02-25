@@ -10,4 +10,4 @@ Just run the program and you will be good!
 
 Install program via this command:
 
-pip install git+https://github.com/VirxEpicoder/ProjectTerminal/blob/master/terminalLauncher050.py
+git clone https://github.com/VirxEpicoder/ProjectTerminal.git
